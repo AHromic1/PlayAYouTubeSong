@@ -1,0 +1,30 @@
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\API tries2.exe
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\API tries2.deps.json
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\API tries2.runtimeconfig.json
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\API tries2.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\API tries2.pdb
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\Google.Apis.YouTube.v3.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\NAudio.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\NAudio.Asio.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\NAudio.Core.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\NAudio.Midi.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\NAudio.Wasapi.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\NAudio.WinMM.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.csproj.AssemblyReference.cache
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.AssemblyInfoInputs.cache
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.AssemblyInfo.cs
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.csproj.CopyComplete
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\refint\API tries2.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.pdb
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\API tries2.genruntimeconfig.cache
+C:\Users\Amina\Source\Repos\API tries2\API tries2\obj\Debug\net6.0\ref\API tries2.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\Amina\Source\Repos\API tries2\API tries2\bin\Debug\net6.0\YoutubeExplode.dll
